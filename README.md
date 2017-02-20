@@ -1,3 +1,8 @@
+> ---
+> **Repository has changed to [nju33/chrome-tab-limiter](https://github.com/nju33/chrome-tab-limiter)**
+>
+> ---
+
 # TabLimiter
 
 設定したタブ数の上限を超えてタブを開くと、
